@@ -35,6 +35,6 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 
 ## GitHub Stats
 
-[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=TedPhillips1&count_private=true&show_icons=true&theme=dark)](https://github.com/TedPhillips1/github-readme-stats)
+[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=TedPhillips1&count_private=true&show_icons=true&theme=prussian)](https://github.com/TedPhillips1/github-readme-stats)
 
 [1]:https://www.linkedin.com/in/ted-phillips-869127225/
