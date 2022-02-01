@@ -1,4 +1,4 @@
-![welcome](https://image.pngaaa.com/536/1431536-middle.png)
+![welcome](https://www.pngkey.com/png/detail/124-1244015_welcome-banner-png-welcome-in-our-group.png)
 # Hi there 👋
 
 <!--
