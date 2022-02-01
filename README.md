@@ -12,6 +12,6 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - 📫 How to reach me: [LinkedIn][1]
 
 ## My Languages and Tools:
-
+[<img align="left" width="25px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"/>]
 
 [1]:https://www.linkedin.com/in/ted-phillips-869127225/
