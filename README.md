@@ -1,4 +1,4 @@
-<div style="width: 940px; height: 250px; overflow: hidden">
+<div style="width: 940px; height: 150px; overflow: hidden">
 <img alt="welcome" src="https://pngimg.com/uploads/welcome/welcome_PNG30.png" />  
 </div>
 
