@@ -9,7 +9,7 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - 💬 Talk to me about AI, finance, biology... anything slightly nerdy/sciency!😄(Warning: may not shut up)
 - ⚡ Fun fact: I'm 6'6", no, I don't play basketball, and yes, the weather is nice up here! 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: ![linkedIn account](https://cdn-icons-png.flaticon.com/512/174/174857.png)[1]
+- 📫 How to reach me: [![linkedIn account](https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico)][1]
 
 <!--
 **TedPhillips1/TedPhillips1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
