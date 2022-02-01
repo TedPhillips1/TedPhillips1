@@ -1,4 +1,7 @@
-<img alt="welcome" src="https://pngimg.com/uploads/welcome/welcome_PNG30.png" height="250px" object-fit="cover" />  
+<div style="width: 940px; height: 250px; overflow: hidden">
+<img alt="welcome" src="https://pngimg.com/uploads/welcome/welcome_PNG30.png" />  
+</div>
+
 
 # Hey there 👋
 ### I'm Ted, a junior full-stack developer with a passion for making great things!
