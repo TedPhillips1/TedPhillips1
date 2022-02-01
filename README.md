@@ -30,7 +30,8 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 <img align="left" width="32px" alt="trello" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain-wordmark.svg"/>
 <img align="left" width="32px" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"/>
 
-## GitHub Stats:
-[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=TedPhillips1)](https://github.com/TedPhillips1/github-readme-stats)
+## GitHub Stats
+
+[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=TedPhillips1&count_private=true)](https://github.com/TedPhillips1/github-readme-stats)
 
 [1]:https://www.linkedin.com/in/ted-phillips-869127225/
