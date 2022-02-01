@@ -1,4 +1,4 @@
-![welcome](https://www.pngall.com/wp-content/uploads/4/Welcome-Banner.png)
+![welcome](https://www.clipartmax.com/png/middle/213-2138952_classic-red-welcome-banner-welcome-sign-red.png)
 # Hey there 👋
 ### I'm Ted, a junior full-stack developer with a passion for making great things!
 After a failed shopify venture in my final year of uni (a Bsc in Biomedical Science at the University of Warwick) I realised that I don't want to flog cheap products from China and if I really want to make a difference in the world I need to make something great that adds value to people's lives. Lacking an Engineering degree I sought the easiest (not so easy now) way of becoming an engineer and I stumbled into coding. I joined the [School of Code](https://www.schoolofcode.co.uk/) and I haven't looked back since!
@@ -11,14 +11,7 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [LinkedIn][1]
 
-<!--
-**TedPhillips1/TedPhillips1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Languages and Tools:
 
-Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- ...
-
--->
 [1]:https://www.linkedin.com/in/ted-phillips-869127225/
