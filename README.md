@@ -1,7 +1,6 @@
 <div style="width: 940px; height: 150px; overflow: hidden">
-<img alt="welcome" src="https://pngimg.com/uploads/welcome/welcome_PNG30.png" />  
+<img alt="welcome" src="https://pngimg.com/uploads/welcome/welcome_PNG30.png" style="width: 940px; height: 355px;"/>  
 </div>
-
 
 # Hey there 👋
 ### I'm Ted, a junior full-stack developer with a passion for making great things!
