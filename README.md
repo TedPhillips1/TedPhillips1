@@ -12,6 +12,8 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - 📫 How to reach me: 
 [<img width="30px" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"/>][1]
 
+---
+
 ## My Languages and Tools:
 <img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"/>
 <img align="left" width="32px" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg"/>
@@ -29,6 +31,8 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 <img align="left" width="32px" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg"/>
 <img align="left" width="32px" alt="trello" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain-wordmark.svg"/>
 <img align="left" width="32px" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"/>
+
+---
 
 ## GitHub Stats
 
