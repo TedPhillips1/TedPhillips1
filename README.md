@@ -1,4 +1,4 @@
-![welcome](https://www.pngkey.com/png/detail/124-1244015_welcome-banner-png-welcome-in-our-group.png)
+![welcome](https://www.pngall.com/wp-content/uploads/4/Welcome-Banner.png)
 # Hi there 👋
 
 <!--
