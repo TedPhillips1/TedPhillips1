@@ -10,7 +10,7 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - ⚡ Fun fact: I'm 6'6", no, I don't play basketball, and yes, the weather is nice up here! 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-[<img width="30px" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"/>][1]
+[<img width="30px" alt="LinkedIn" align="right" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"/>][1]
 
 ## My Languages and Tools:
 [<img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"/>]
