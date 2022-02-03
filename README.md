@@ -43,4 +43,7 @@ After a failed shopify venture in my final year of uni (a Bsc in Biomedical Scie
 ## Codewars Stats:
 [![Ted's Codewars stats](https://www.codewars.com/users/TedPhillips1/badges/large)](https://www.codewars.com/users/TedPhillips1)
 
+## My Progression:
+See my repos below to see a representation of how I have progressed over the bootcamp, from using basic logic and DOM manipulation to creating more interactive apps in React.js.
+
 [1]:https://www.linkedin.com/in/ted-phillips-869127225/
