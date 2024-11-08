@@ -4,17 +4,12 @@
 
 # Hey there 👋
 ### I'm Ted, a junior full-stack developer with a passion for making great things!
-After a failed shopify venture in my final year of uni (a Bsc in Biomedical Science at the University of Warwick) I realised that I don't want to flog cheap products from China and if I really want to make a difference in the world I need to make something great that adds value to people's lives. Lacking an Engineering degree I sought the easiest (not so easy now) way of becoming an engineer and I stumbled into coding. I joined the [School of Code](https://www.schoolofcode.co.uk/) and I haven't looked back since!
+After a failed Shopify venture in my final year of uni (a Bsc in Biomedical Science at the University of Warwick) I realised that I don't want to flog cheap products from China, and if I really want to make a difference in the world I need to make something great that adds value to people's lives. Lacking an Engineering degree I sought the most accessible way of becoming an engineer and I stumbled into coding. I joined the [School of Code](https://www.schoolofcode.co.uk/) and I haven't looked back since. I now have 3+ years ofr experience in full stack development and have developed strong platform engineering skills through my time in employment. 
 
-
-- 🔭 I’m currently working on a stock and crypto portfolio tracker!
-- 🌱 I’m currently learning everything!
-- 💬 Talk to me about AI, finance, biology... anything slightly nerdy/sciency!😄(Warning: may not shut up)
-- ⚡ Fun fact: I'm 6'6", no, I don't play basketball, and yes, the weather is nice up here! 
+- ⚡ Fun fact: I'm 6'6", no, I don't play basketball, and yes, the weather is nice up here!
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 [<img width="30px" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"/>][1]
-
 
 ## My Languages and Tools:
 <img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"/>
