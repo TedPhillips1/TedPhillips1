@@ -11,34 +11,13 @@ After a failed Shopify venture in my final year of uni (a Bsc in Biomedical Scie
 - 📫 How to reach me: 
 [<img width="30px" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg"/>][1]
 
-## My Languages and Tools:
-<img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"/>
-<img align="left" width="32px" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg"/>
-<img align="left" width="32px" alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"/>
-<img align="left" width="32px" alt="gatsby" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gatsby/gatsby-original.svg"/>
-<img align="left" width="32px" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"/>
-<img align="left" width="32px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"/>
-<img align="left" width="32px" alt="heroku" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg"/>
-<img align="left" width="32px" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"/>
-<img align="left" width="32px" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"/>
-<img align="left" width="32px" alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg"/>
-<img align="left" width="32px" alt="nextjs" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg"/>
-<img align="left" width="32px" alt="postresql" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg"/>
-<img align="left" width="32px" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg"/>
-<img align="left" width="32px" alt="slack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg"/>
-<img align="left" width="32px" alt="trello" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain-wordmark.svg"/>
-<img align="left" width="32px" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"/>  
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+## My Skills:
 
-## GitHub Stats:
+### Full Stack Engineering
+Javascript ▪ Typescript ▪ ReactJS ▪ ExpressJS ▪ NodeJS ▪ NextJS
 
-[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=TedPhillips1&count_private=true&show_icons=true&theme=monokai)](https://github.com/TedPhillips1/github-readme-stats)
+### Platform Engineering
+AWS ▪ CDK ▪ Cloudformation ▪ Terraform ▪ Docker ▪ GitLab CICD ▪ LinuxOS
 
-## Codewars Stats:
-[![Ted's Codewars stats](https://www.codewars.com/users/TedPhillips1/badges/large)](https://www.codewars.com/users/TedPhillips1)
-
-## My Progression:
-See my repos below to see a representation of how I have progressed over the bootcamp, from using basic logic and DOM manipulation to creating more interactive apps in React.js.
-
-[1]:https://www.linkedin.com/in/ted-phillips-869127225/
+### Other
+Figma ▪ Agile Development Methodologies ▪ Leadership ▪ Communication
